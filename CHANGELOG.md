@@ -19,7 +19,8 @@
       - FIXED: treat `bicycle=use_sidepath` as no access on the tagged way. [#5622](https://github.com/Project-OSRM/osrm-backend/pull/5622)
     - Misc:
       - CHANGED: Reduce memory usage for raster source handling. [#5572](https://github.com/Project-OSRM/osrm-backend/pull/5572)
-
+    - Infrastructure
+      - REMOVED: STXXL support removed as STXXL became abandonware. [#5760](https://github.com/Project-OSRM/osrm-backend/pull/5760)
 # 5.21.0
   - Changes from 5.20.0
     - Features:
